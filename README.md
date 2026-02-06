@@ -13,7 +13,7 @@ Implemnet FEA basic algorithm code generation
 - CAD geometry modification limited
 ---
 ## Approach
-- Visual Studio 2024 + C++
+- Visual Studio 2022 + C++
 ---
 ## Analysis
 - Works to analysis tringale base element's weight COG calculation~
