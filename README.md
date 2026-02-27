@@ -70,7 +70,11 @@ The saved file should be generated in the same folder as the STL file.
 
 \*Example -- 3D STL file of a simple hexagon:
 
-![](media/image3.png)![](media/image4.png)\* Program GUI Layout**:**
+![](media/image3.png)
+
+\* Program GUI Layout:
+
+![](media/image4.png)
 
 > S3. **File Selection:**
 
@@ -86,5 +90,6 @@ The saved file should be generated in the same folder as the STL file.
 > S5. **Exit:**
 
 - Button to terminate the program
+
 
 
