@@ -40,16 +40,15 @@ places:
 
 \+ Z-axis: min, max
 
-![](C:\Users\BGM\Documents\media\image1.png){width="6.268055555555556in"
-height="6.876388888888889in"}
+![](media/image1.png)
 
 → Red box: displays the coordinates (XYZ) of the three vertices of each
 triangle.
 
 \-
-![](C:\Users\BGM\Documents\media\image2.png){width="6.250793963254593in"
-height="3.3734437882764654in"}Execution Result Window: Shows the
-computed triangle data.
+![](media/image2.png}
+
+Execution Result Window: Shows the computed triangle data.
 
 ------------------------------------------------------------------------
 
@@ -71,9 +70,7 @@ The saved file should be generated in the same folder as the STL file.
 
 \*Example -- 3D STL file of a simple hexagon:
 
-![](C:\Users\BGM\Documents\media\image3.png){width="3.248611111111111in"
-height="2.7354166666666666in"}![](C:\Users\BGM\Documents\media\image4.png){width="5.502083333333333in"
-height="3.0055555555555555in"}\* Program GUI Layout**:**
+![](media/image3.png)![](media/image4.png)\* Program GUI Layout**:**
 
 > S3. **File Selection:**
 
@@ -89,4 +86,5 @@ height="3.0055555555555555in"}\* Program GUI Layout**:**
 > S5. **Exit:**
 
 - Button to terminate the program
+
 
